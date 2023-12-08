@@ -20,10 +20,10 @@
 // console.log(min(8, 5)); //5
 
 // 3-task
-let ask = (question, yes, no) => (confirm(question) ? yes() : no());
+// let ask = (question, yes, no) => (confirm(question) ? yes() : no());
 
-ask (
-    "Ви згодні?",
-    () => alert("Ви погодились"),
-    () => alert("Ви скасували виконання.")
-);
+// ask (
+//     "Ви згодні?",
+//     () => alert("Ви погодились"),
+//     () => alert("Ви скасували виконання.")
+// );
